@@ -1,2 +1,2 @@
 # cse431
-Course cse431 related projects and materials
+Task1: Video Presentation on a research Paper:  https://youtu.be/eCt5Ds154pE

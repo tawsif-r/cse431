@@ -5,7 +5,7 @@ Unlisted YouTube video:
 http://youtube....
 
 Paper title:
-Headline Humor Recognition(Sarcasm detection using NLP)
+Leveraging GloVe Embeddings and LSTM Networks for Sarcasm Detection in News Headlines(Sarcasm detection using NLP)
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1RZfY5JCDQI7E9KmNwqmWpLfa1OZkZvWz/edit?usp=sharing&ouid=111341011484936600680&rtpof=true&sd=true

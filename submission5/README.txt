@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/vjtqhvjshyjj#ba14d4
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/yRNEE8rsaiw
 
 Paper title:
 Leveraging GloVe Embeddings and LSTM Networks for Sarcasm Detection in News Headlines(Sarcasm detection using NLP)
